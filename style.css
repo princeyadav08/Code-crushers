@@ -94,15 +94,15 @@ h2 {
 }
 
 .switch-field input:checked + label {
-  background-color: #3498db;
+  background-color: #db3434;
   color: white;
-  border-color: #3498db;
-  box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+  border-color: #ff323d;
+  box-shadow: 0 4px 10px rgba(255, 23, 31, 0.3);
 }
 
 /* Button Styles */
 .submit {
-  background: linear-gradient(135deg, #3498db, #2980b9);
+  background: linear-gradient(135deg, #f02d2d, #f60e0e);
   color: white;
   width: 100%;
   border: 0;
@@ -117,7 +117,7 @@ h2 {
 }
 
 .submit:hover {
-  background: linear-gradient(135deg, #2980b9, #3498db);
+  background: linear-gradient(135deg, #f61317, #f12323);
   transform: translateY(-2px);
   box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4);
 }
