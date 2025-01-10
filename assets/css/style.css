@@ -1745,8 +1745,7 @@ button, a { transition: var(--transition); }
   border: 5px solid #f3f3f3;
   /* border-top: 5px solid #e8ecef; Blue spinner color */
   /* border-radius: 50%; */
-  /* animation: spin 1s linear infinite; */ */
-}
+  /* animation: spin 1s linear infinite; */ 
 
 @keyframes spin {
   0% {
